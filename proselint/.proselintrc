@@ -32,6 +32,7 @@
         "misc.debased"                  : true,
         "misc.false_plurals"            : true,
         "misc.illogic"                  : true,
+        "misc.simple_words"             : true,
         "misc.inferior_superior"        : true,
         "misc.latin"                    : true,
         "misc.many_a"                   : true,
