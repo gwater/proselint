@@ -57,6 +57,7 @@
         "oxymorons.misc"                : true,
         "psychology.misc"               : true,
         "redundancy.misc"               : true,
+        "redundancy.wordy_phrases"      : true,
         "redundancy.ras_syndrome"       : true,
         "skunked_terms.misc"            : true,
         "spelling.able_atable"          : true,
